@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cronuside
+- 👀 I’m interested in Java and creating interesting projects that increase my knowledge about the language.
+- 🌱 I’m currently working on a private project which is essentially a core plugin for my Minecraft server.
+- 📫 You can reach my on my discord at cronu#0001
