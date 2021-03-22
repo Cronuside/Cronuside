@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cronuside
+- 👋 Hi, I’m @Cronuside, I'm 19 years old and I love Java.
 - 👀 I’m interested in Java and creating interesting projects that increase my knowledge about the language.
-- 🌱 I’m currently working on a private project which is essentially a core plugin for my Minecraft server.
+- 🌱 I’ve been learning Java for around 6 months now, more recently I've undertook a private project in which I've decided to build a core plugin for my Minecraft server.
 - 📫 You can reach my on my discord at cronu#0001
